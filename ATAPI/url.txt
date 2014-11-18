@@ -1,0 +1,2 @@
+http://en.wikipedia.org/wiki/Master_boot_record
+http://en.wikipedia.org/wiki/Partition_type
